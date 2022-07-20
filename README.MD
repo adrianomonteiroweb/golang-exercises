@@ -6,6 +6,8 @@
 
 - Usando var com package-level scope, sem valores mas com tipos: int, string e bool. Exibir e informar que tipo de valores são.
 
+- Atribuir valores as variáveis em package-level scope: 42, "James Bond" e true. Usar fmt.Sprintf e atribuir todos os valores a uma variável de nome "s", além de demonstra-la.
+
 ## Operador &&
 
 ## Cálcuro de área de um triângulo
