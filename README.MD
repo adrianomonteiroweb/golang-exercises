@@ -8,7 +8,9 @@
 
 - Atribuir valores as variáveis em package-level scope: 42, "James Bond" e true. Usar fmt.Sprintf e atribuir todos os valores a uma variável de nome "s", além de demonstra-la.
 
-- criar um tipo que deve ser int. Criar uma va para o tipo criado. Demonstrar o valor inicial, o tipo, atribuir 42 a variável e demonstrar o valor novamente.
+- Criar um tipo que deve ser int. Criar uma va para o tipo criado. Demonstrar o valor inicial, o tipo, atribuir 42 a variável e demonstrar o valor novamente.
+
+- Criar uma var y de tipo int. Converta o tipo de var x em seu tipo int e atribua o valor de x a y. Demonstre o valor e tipo de y.
 
 ## Operador &&
 
