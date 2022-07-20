@@ -4,6 +4,8 @@
 
 - Declarar variáveis e imprimir juntas e separadas.
 
+- Usando var com package-level scope, sem valores mas com tipos: int, string e bool. Exibir e informar que tipo de valores são.
+
 ## Operador &&
 
 ## Cálcuro de área de um triângulo
