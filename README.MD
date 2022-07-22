@@ -14,6 +14,10 @@
 
 ## Operador &&
 
+## Laços de repetição
+
+- Imprimir números de 1 a 10000.
+
 ## Cálcuro de área de um triângulo
 
 ## Dividir a frase
