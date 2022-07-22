@@ -18,6 +18,8 @@
 
 - Imprimir números de 1 a 10000.
 
+- Imprimir o unicode point de todas as letras maiúsculas do alfabeto, três vezes cada.
+
 ## Cálcuro de área de um triângulo
 
 ## Dividir a frase
